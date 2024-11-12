@@ -344,5 +344,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+.ENV
 # End of https://www.toptal.com/developers/gitignore/api/go,goland,goland+all,goland+iml,windows,macos,linux,visualstudiocode
